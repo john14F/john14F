@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @john14F
+- 👋 Hi, I’m @john14F(Junaid Ahmed)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python,Django
 - 💞️ I’m looking to collaborate on Python
